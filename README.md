@@ -59,15 +59,17 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,notion,anaconda&theme=dark" />
+
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,notion,anaconda,selenium&theme=dark" />
+  
 
 <br/>
 
 ##  GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hovarthan21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hovarthan21&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=hovarthan21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hovarthan21&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </div>
 
 <div align="center">
